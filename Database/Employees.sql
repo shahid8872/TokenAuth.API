@@ -1,0 +1,5 @@
+﻿insert into Employees (FirstName, LastName, Email, Gender, CreatedDate) values ('Ray', 'Emanuele', 'remanuele3@ocn.ne.jp', 'Male', '11/13/2024') 
+insert into Employees (FirstName, LastName, Email, Gender, CreatedDate) values ('Evanne', 'Knights', 'eknights2@vkontakte.ru', 'Female', '11/13/2024')
+insert into Employees (FirstName, LastName, Email, Gender, CreatedDate) values ('Susana', 'Lawes', 'slawes@@scribd.com', 'Female', '1/16/24')
+insert into Employees (FirstName, LastName, Email, Gender, CreatedDate) values ('Cal', 'Birden', 'cbirden5@cisco.con', 'Male', '12/9/2021')
+insert into Employees (FirstName, LastName, Email, Gender, CreatedDate) values ('Wylna', 'Stolt', 'wstollo@adobe.cont', 'Female', '11/3/2023') 

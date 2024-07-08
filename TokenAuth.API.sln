@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenAuth.API", "TokenAuth.API\TokenAuth.API.csproj", "{C7A10D8A-A31C-43DD-B0C3-E522275FBDEF}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{63F2751D-893A-435D-897E-F501782FC830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A10D8A-A31C-43DD-B0C3-E522275FBDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A10D8A-A31C-43DD-B0C3-E522275FBDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A10D8A-A31C-43DD-B0C3-E522275FBDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A10D8A-A31C-43DD-B0C3-E522275FBDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F2751D-893A-435D-897E-F501782FC830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F2751D-893A-435D-897E-F501782FC830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F2751D-893A-435D-897E-F501782FC830}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{63F2751D-893A-435D-897E-F501782FC830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F2751D-893A-435D-897E-F501782FC830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F2751D-893A-435D-897E-F501782FC830}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0B62DF-5BCA-4C4C-AD3A-0BC27C45D0D9}
+	EndGlobalSection
+EndGlobal
